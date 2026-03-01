@@ -10,8 +10,8 @@ y generar una respuesta conciliadora lista para usar en atención al cliente.
 ## Prompt completo
 
 RESEÑA EXTRAÍDA DE www.backmarket.es
-```Me parece ridículo que todavía vendan un teléfono insignia 
-con una pantalla de 60 Hz. Debería haber sido 120 Hz durante años.```
+``Me parece ridículo que todavía vendan un teléfono insignia  
+con una pantalla de 60 Hz. Debería haber sido 120 Hz durante años.´´´
 
 Instrucciones:
 - Obtén los 3 términos/palabras clave que determinan el contexto de la frase.
@@ -22,7 +22,7 @@ Instrucciones:
 
 ## Output obtenido
 
-{
+```{
   "reseña": {
     "fuente": "www.backmarket.es",
     "terminos_clave": [
@@ -36,10 +36,8 @@ Instrucciones:
     },
     "respuesta_atencion_cliente": "Entendemos tu frustración y es totalmente válida. Tomamos nota de tu opinión sobre la pantalla. Si deseas, podemos orientarte hacia modelos que mejor se adapten a tus expectativas. ¡Estamos aquí para ayudarte!"
   }
-}
+}```
 
 ## Por qué funciona
 
-Permite extraer la información relevante de cara a una solución concreta.
-Nos enfocamos en el contenido a través de las palabras clave.
-Trabajamos para mantener el vínculo con el cliente.
+Se aplican delimitadores para separar el texto de las instrucciones, output estructurado en JSON para facilitar el procesamiento, audiencia específica definida y límite de caracteres en la respuesta. Combina Inferring y Summarizing en un único prompt
