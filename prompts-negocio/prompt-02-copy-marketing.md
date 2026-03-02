@@ -15,8 +15,8 @@ Genera automáticamente copy publicitario persuasivo, para un producto de seguri
  
 
 ## PROMPT COMPLETO 
-
-```` Instrucciones: 
+````
+Instrucciones: 
 
 Genera frase completa y correctamente estructurada 
 
@@ -28,4 +28,11 @@ Debe tener intención persuasiva para su venta
 
 Debe tener un lenguaje familiar y dirigido para padres primerizos. 
 
-Devuelve el copy dentro de un <section> con un <h2> para el titular y un <p> para el cuerpo ```` 
+Devuelve el copy dentro de un <section> con un <h2> para el titular y un <p> para el cuerpo
+````
+
+## POR QUÉ FUNCIONA
+Se aplican delimitadores para separar texto de instrucciones, se adapta un recurso de gancho final en la frase, se adapta al público específico, se limita la longitud y devuelve un copy publicitario listo en HTML.
+
+
+
