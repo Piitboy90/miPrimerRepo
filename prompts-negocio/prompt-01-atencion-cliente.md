@@ -36,7 +36,8 @@ Instrucciones:
     },
     "respuesta_atencion_cliente": "Entendemos tu frustración y es totalmente válida. Tomamos nota de tu opinión sobre la pantalla. Si deseas, podemos orientarte hacia modelos que mejor se adapten a tus expectativas. ¡Estamos aquí para ayudarte!"
   }
-}```
+}
+````
 
 ## Por qué funciona
 
