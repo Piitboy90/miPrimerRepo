@@ -10,7 +10,6 @@ Sintetiza la oferta laboral en puntos fundamentales para RRHH, permitiendo un an
 
  ## OFERTA LABORAL 
 
-````
 Requisitos 
 
 Estudios mínimos 
@@ -48,9 +47,6 @@ Salario: 1.400€ aprox. brutos/mes
 Jornada completa (40h semanales) con dos días libres. Opción de 30h semanales. 
 Turnos rotativos (partidos y seguidos). 
 Contrato indefinido.
-````
-
- 
 
 ## PROMPT COMPLETO 
 
