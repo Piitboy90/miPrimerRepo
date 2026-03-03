@@ -53,17 +53,17 @@ Contrato indefinido.
  
 
 ## PROMPT COMPLETO 
-````
+
 Instrucciones: 
 
-Analiza el texto de la “OFERTA LABORAL”  
+- Analiza el texto de la “OFERTA LABORAL”  
 
-Obtendremos los 4 campos más relevantes del contexto con el objetivo de mostrarlo visualmente claro en un solo vistazo (puesto laboral, experiencia requerida, salario y tipo contrato) 
+- Obtendremos los 4 campos más relevantes del contexto con el objetivo de mostrarlo visualmente claro en un solo vistazo (puesto laboral, experiencia requerida, salario y tipo contrato) 
 
-Este prompt va dirigido al departamento de RRHH, por lo que debemos sintetizar lo más claro posible para su procesamiento. 
+- Este prompt va dirigido al departamento de RRHH, por lo que debemos sintetizar lo más claro posible para su procesamiento. 
 
-Devuelve JSON perfectamente estructurado.
-````
+- Devuelve JSON perfectamente estructurado.
+
 
  
 
