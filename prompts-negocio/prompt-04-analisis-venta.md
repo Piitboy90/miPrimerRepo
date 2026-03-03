@@ -1,4 +1,4 @@
-#PROMPT 04 – ANALISIS VENTAS 
+## PROMPT 04 – ANALISIS VENTAS 
 
  
 
@@ -71,6 +71,6 @@ Instrucciones:
 
  
 
-Se aplican delimitadores para separar la conversación de las instrucciones, lógica condicional para dos escenarios distintos de respuesta, y campos específicos definidos en el JSON. 
-
-Resuelve el problema de escalar el análisis comercial sin depender de un director de ventas para cada conversación. El JSON permite integrarlo directamente a un sistema de seguimiento de leads. 
+- Se aplican delimitadores para separar la conversación de las instrucciones, lógica condicional para dos escenarios distintos de respuesta, y campos específicos definidos en el JSON. 
+- Resuelve el problema de escalar el análisis comercial sin depender de un director de ventas para cada conversación.
+- El JSON permite integrarlo directamente a un sistema de seguimiento de leads. 
