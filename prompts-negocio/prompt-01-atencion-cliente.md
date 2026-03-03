@@ -7,11 +7,11 @@ E-commerce / Electrónica
 Detectar automáticamente reseñas negativas, extraer términos clave 
 y generar una respuesta conciliadora lista para usar en atención al cliente.
 
-## Prompt completo
-
-RESEÑA EXTRAÍDA DE www.backmarket.es
+## RESEÑA EXTRAÍDA DE www.backmarket.es
 ``Me parece ridículo que todavía vendan un teléfono insignia  
 con una pantalla de 60 Hz. Debería haber sido 120 Hz durante años.´´´
+
+## Prompt completo
 
 Instrucciones:
 - Obtén los 3 términos/palabras clave que determinan el contexto de la frase.
