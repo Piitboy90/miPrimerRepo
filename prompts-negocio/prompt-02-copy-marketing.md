@@ -31,6 +31,15 @@ Debe tener un lenguaje familiar y dirigido para padres primerizos.
 Devuelve el copy dentro de un <section> con un <h2> para el titular y un <p> para el cuerpo
 ````
 
+## OUTPUT OBTENIDO 
+
+````
+<section>
+  <h2>La tranquilidad que tu bebé merece en cada trayecto</h2>
+  <p>Descubre la silla de bebé para coche Chicco, diseñada para proteger lo que más quieres desde el primer viaje. Incorpora un sistema de seguridad integrado y airbag en los cabeceros para ofrecer una protección avanzada, envolvente y reforzada en cada desplazamiento. Su asiento acolchado, mullido, ergonómico y suave brinda el máximo bienestar para que tu pequeño viaje cómodo y seguro. Porque cuando eres padre primerizo, no solo eliges una silla: eliges viajar con amor, confianza y calma en el corazón.</p>
+</section>
+````
+
 ## POR QUÉ FUNCIONA
 Se aplican delimitadores para separar texto de instrucciones, se adapta un recurso de gancho final en la frase, se adapta al público específico, se limita la longitud y devuelve un copy publicitario listo en HTML.
 
